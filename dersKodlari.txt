@@ -1,0 +1,8 @@
+1001 Matematik 1
+2002 Edebiyat 2
+3003 Ingiilizce 3
+4004 Kodlama 4
+5005 Pratik 5
+6006 Teori 6
+7007 Mekanik 7
+8008 Fizik 8
